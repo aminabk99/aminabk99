@@ -1,7 +1,6 @@
-## Amina Bilal
+## Hello! This is Amina Bilal's page!
 
-Computer and Information Science student at the University of Michigan–Dearborn, focused on building structured Java applications and understanding computer systems from software down to hardware. My work spans GUI development, algorithms, and digital logic design.
-
+I am a sophmore Computer and Information Science student at the University of Michigan–Dearborn. In my GitHub, you will find many projects I have worked on over the years!
 ---
 
 ### 📌 Featured Projects
