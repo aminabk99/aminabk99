@@ -1,6 +1,6 @@
-**Hello! I'm Amina, welcome to my GitHub!** 
+**Hello! I'm Amina, welcome to my GitHub profile!** 
 
-I am a sophomore Computer and Information Science student at the University of Michigan–Dearborn. This GitHub contains a collection of projects I have worked on over the years, spanning software development, algorithms, and systems-level design.
+I am a sophomore Computer and Information Science student at the University of Michigan–Dearborn. My profile contains a collection of projects I have worked on over the years, spanning software development, algorithms, and systems-level design.
 
 ---
 
