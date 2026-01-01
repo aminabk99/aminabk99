@@ -1,4 +1,4 @@
-**Hello!** This is Amina Bilal’s page.
+**Hello! I'm Amina, welcome to my GitHub!** 
 
 I am a sophomore Computer and Information Science student at the University of Michigan–Dearborn. This GitHub contains a collection of projects I have worked on over the years, spanning software development, algorithms, and systems-level design.
 
