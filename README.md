@@ -29,9 +29,9 @@ I am a sophomore Computer and Information Science student at the University of M
       </sub>
     </td>
     <td width="50%">
-      <b>Java_BrainstormBubbleDRAFT</b><br/>
+      <b>SSL_VulnerabilityTests</b><br/>
       <sub>
-      Development workspace for the BrainstormBubble project. Contains early iterations, experiments, and design exploration documenting the evolution of the final system.
+      Investigates SSL/TLS certificate validation flaws in mobile applications and their susceptibility to man-in-the-middle (MITM) attacks.
       </sub>
     </td>
   </tr>
