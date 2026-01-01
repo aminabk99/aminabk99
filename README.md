@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I’m Amina 👋
 
-<!--
-**aminabk99/aminabk99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer and Information Science student at the University of Michigan–Dearborn.
+I enjoy building Java applications, working with algorithms, and exploring systems-level projects.
 
-Here are some ideas to get you started:
+### 🔹 Featured Projects
+- **Digital_4BitCPU** – 4-bit R-Type CPU built in a digital logic simulator
+- **Java_BrainstormBubble** – Collaborative JavaFX brainstorming app
+- **Java_Monopoly** – Monopoly-style board game using JavaFX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Tech
+- Java, C++, Python
+- JavaFX, Git, IntelliJ
+- Data Structures, Algorithms, Computer Organization
+
+📫 Feel free to explore my repositories below.
